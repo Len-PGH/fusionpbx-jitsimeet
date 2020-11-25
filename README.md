@@ -4,5 +4,5 @@ A simple APP that embeds a self hosted Jitsi-Meet server.
 * Install a self hosted Jitsi-Meet instance on a seperate server than your FusionPBX server.
 
 
-![JitsiMeet](img/fusionpbx_jitsimeet_app_demo.jpg)   
+![JitsiMeet](jitsimeet/img/fusionpbx_jitsimeet_app_demo.jpg)   
 
